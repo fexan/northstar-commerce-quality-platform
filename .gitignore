@@ -1,0 +1,15 @@
+node_modules/
+playwright-report/
+test-results/
+blob-report/
+automation/playwright-report/
+automation/test-results/
+automation/blob-report/
+tmp/
+.env
+.env.local
+medusa-creds.txt
+my-medusa-store/apps/backend/.medusa-ci-keys
+Northstar_Commerce_Playwright_Requirements_and_Implementation_Plan.pdf
+Playwright_Framework_Roadmap_for_Ife.pdf
+

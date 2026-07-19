@@ -1,0 +1,9 @@
+my-medusa-store/
+node_modules/
+playwright-report/
+test-results/
+automation/playwright-report/
+automation/test-results/
+automation/blob-report/
+tmp/
+*.pdf
